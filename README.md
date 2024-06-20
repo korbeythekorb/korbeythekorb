@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @korbeythekorb
-- 👀 I’m interested in Gorilla tag capuchin rec room and RIP echo vr
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord, @duckbutdumb 
+yo im duck
+im goofy yeep
 
 <!---
 korbeythekorb/korbeythekorb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
