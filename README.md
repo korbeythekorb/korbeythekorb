@@ -1,5 +1,5 @@
 yo im duck
-im goofy yeep
+i do stuff
 
 <!---
 korbeythekorb/korbeythekorb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
